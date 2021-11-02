@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.gogotanc.ideaplugindemo.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.gogotanc.ideaplugindemo.MyBundle
 
 class MyApplicationService {
 
